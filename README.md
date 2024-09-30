@@ -1,2 +1,3 @@
 # MOE-HRS
-Mixture of Experts based Genetic Risk Prediction Framework and LLM Augmented Healthcare Recommender System for Cancers
+Genomics-Enhanced Cancer Risk Prediction for Personalized LLMs-Driven Healthcare Recommender Systems
+
